@@ -1,0 +1,5 @@
+adafruit_rplidar==0.0.1
+numpy==1.25.2
+opencv-python
+roslibpy==1.5.0
+RPi.GPIO
